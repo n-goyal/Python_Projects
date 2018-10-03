@@ -3,7 +3,7 @@
 This repo is basically a collection of all the python projects that i've done while taking Python Mega Course on Udemy. total number of projects are 10.
 this includes:
 
-1. Building an Interactive dictionary
+1. Building an Interactive dictionary (Command_Line)
 2. Creating Webmaps with Python and Folium
 3. Building a Website Blocker
 4. Building a Website with Python and Flask
