@@ -1,6 +1,6 @@
 # Python_Projects
 
-this repo is basically a collection of all the python projects that i've done while taking Python Mega Course on Udemy. total number of projects are 10.
+This repo is basically a collection of all the python projects that i've done while taking Python Mega Course on Udemy. total number of projects are 10.
 this includes:
 
 1. Building an Interactive dictionary
