@@ -1,3 +1,2 @@
-# Python_Projects
-
-inlculdes all Data Analytics notebooks ( Google Colaboratory Notebooks).
+# Python Projects
+This Repository contains my Data Analytics projects and their Ipython notebooks.
