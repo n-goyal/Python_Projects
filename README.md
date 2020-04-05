@@ -3,8 +3,7 @@ This repository contains my work on data analytics, machine learning and deep le
 I mostly used Google Colaboratory and Kaggle Notebooks to prepare and train the models hence datasets are available on my drive or kaggle.
 
 #### Below is the list of project notebooks this repo contains:
-$ tree
-.
+<pre>/README.md
     ├── Colab Notebooks
     │   ├── Time Series Data Analysis - 
     │   ├── Text Extraction & Processing - urllib, beautifulsoup, nltk, re etc.
@@ -15,3 +14,4 @@ $ tree
     │   ├── Youtube Data Scrapping and Analysis - Youtube API, pandas
     ├── Tensorflow
     └── README.md
+</pre>
